@@ -35,7 +35,7 @@ export class LoginService {
 
   // LOGICA PARA LAS PETICIONES
   // 1. Inicio de sesion (PETICION POST)
-  inicioSesion(credencialesIngreso: Login){
+  inicioSesion(emailTest: string, passwordTest: string, credencialesIngreso: Login){
     // PETICION POST
     return this._httpClient.post(this.URL_LOGIN, credencialesIngreso)
   };

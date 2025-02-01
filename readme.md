@@ -22,4 +22,4 @@ Ofrecemos distintas prendas de vestir y accesorios de moda, siempre pensando en 
 
 
 ## AUTORES
-<br> Proyecto realizado por Santiago Gutierrez (Como desarollador) y Camilo Fetiva (Como SCRUM Master) para el Bootcamp de Desarrollo Web 2024 </br>
+<br> Proyecto realizado por Santiago Gutierrez 2024 </br>
